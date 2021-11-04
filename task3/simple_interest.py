@@ -9,3 +9,4 @@ time = t = int(input("Please enter the time period here: "))
 simple_interest = (p * r * t) / 100
 print(simple_interest)
 print(type(simple_interest))
+
