@@ -8,6 +8,7 @@ print(x)
 my_name = "Zainab"
 my_siblings = 6
 print(type(my_name))
+print(type(my_siblings))
 
 
 # Datat types
