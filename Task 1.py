@@ -79,5 +79,3 @@ print(round_two_num)
 print((200 / 4) * 2  + 0.5 - 0.25)
 
 print(type(3 + 1.5 + 4))
-
-# **
