@@ -5,4 +5,5 @@ result and type
 num1 = 100
 num2 = 25
 result = num1 / num2
+print(f'Here is the result: {result}')
 print(type(result))
