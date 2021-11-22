@@ -23,3 +23,4 @@ for num in range(1,101):
         print("BUZZ")
     else:
         print(num)
+        
